@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.09ecf34e.css",
-    "main.js": "/static/js/main.55f54b99.js",
-    "static/js/239.f3f87318.chunk.js": "/static/js/239.f3f87318.chunk.js",
-    "static/js/977.c759b7ed.chunk.js": "/static/js/977.c759b7ed.chunk.js",
-    "static/js/455.548edd58.chunk.js": "/static/js/455.548edd58.chunk.js",
-    "static/js/453.fb056cf6.chunk.js": "/static/js/453.fb056cf6.chunk.js",
-    "index.html": "/index.html",
-    "main.09ecf34e.css.map": "/static/css/main.09ecf34e.css.map",
-    "main.55f54b99.js.map": "/static/js/main.55f54b99.js.map",
-    "239.f3f87318.chunk.js.map": "/static/js/239.f3f87318.chunk.js.map",
-    "977.c759b7ed.chunk.js.map": "/static/js/977.c759b7ed.chunk.js.map",
-    "455.548edd58.chunk.js.map": "/static/js/455.548edd58.chunk.js.map",
-    "453.fb056cf6.chunk.js.map": "/static/js/453.fb056cf6.chunk.js.map"
+    "main.css": "/image-to-pdf/static/css/main.09ecf34e.css",
+    "main.js": "/image-to-pdf/static/js/main.64e4ea3c.js",
+    "static/js/239.f3f87318.chunk.js": "/image-to-pdf/static/js/239.f3f87318.chunk.js",
+    "static/js/977.c759b7ed.chunk.js": "/image-to-pdf/static/js/977.c759b7ed.chunk.js",
+    "static/js/455.548edd58.chunk.js": "/image-to-pdf/static/js/455.548edd58.chunk.js",
+    "static/js/453.fb056cf6.chunk.js": "/image-to-pdf/static/js/453.fb056cf6.chunk.js",
+    "index.html": "/image-to-pdf/index.html",
+    "main.09ecf34e.css.map": "/image-to-pdf/static/css/main.09ecf34e.css.map",
+    "main.64e4ea3c.js.map": "/image-to-pdf/static/js/main.64e4ea3c.js.map",
+    "239.f3f87318.chunk.js.map": "/image-to-pdf/static/js/239.f3f87318.chunk.js.map",
+    "977.c759b7ed.chunk.js.map": "/image-to-pdf/static/js/977.c759b7ed.chunk.js.map",
+    "455.548edd58.chunk.js.map": "/image-to-pdf/static/js/455.548edd58.chunk.js.map",
+    "453.fb056cf6.chunk.js.map": "/image-to-pdf/static/js/453.fb056cf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09ecf34e.css",
-    "static/js/main.55f54b99.js"
+    "static/js/main.64e4ea3c.js"
   ]
 }
